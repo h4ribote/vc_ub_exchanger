@@ -21,3 +21,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+# To do
+- 寝る
