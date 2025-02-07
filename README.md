@@ -1,10 +1,9 @@
 # vc_ub_exchanger
-6時間で何ができる～？ショボいボットを作ること～
 
-# 何これ
+## 何これ
 VirtualCrypto、UnbelievaBoat間の送金するためのdiscordボットをパパッとセットアップできるやつ
 
-# 使い方
+## 使い方
 - requirements.txt
 ```
 pip install -r requirements.txt
@@ -22,9 +21,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# 注意書きみたいなやつ
+## 注意書きみたいなやつ
 virtualcryptoの[client.py 167行目](https://github.com/h4ribote/vc_ub_exchanger/blob/main/virtualcrypto/client.py#L167)がオリジナルのやつだとなんか動かなかったので勝手に書き換えてます  
 元のほうのコードで動いたやつ、至急、メールくれや。  
 
-# To do
+## To do
 - 寝る
