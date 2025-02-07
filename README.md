@@ -22,5 +22,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+# 注意書きみたいなやつ
+virtualcryptoの[client.py 167行目](https://github.com/h4ribote/vc_ub_exchanger/blob/main/virtualcrypto/client.py#L167)がオリジナルのやつだとなんか動かなかったので勝手に書き換えてます  
+元のほうのコードで動いたやつ、至急、メールくれや。  
+
 # To do
 - 寝る
